@@ -1,0 +1,89 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+/*header*/
+
+
+
+.text-caption {
+  margin: 10px;
+  padding-left: 10px;
+  font-size: 19px;
+  border-left: 3px solid #7ce0d6;
+}
+
+.result__caption {
+  color: #082824;
+  text-transform: uppercase;
+}
+
+.container-caption {
+  font-size: 35px;
+}
+
+.menu-item {
+  font-size: 20px;
+}
+
+.header-link {
+  font-size: 20px;
+}
+
+.container-caption {
+  color: #082824;
+  text-transform: uppercase;
+}
+
+.container-little-text {
+  font-size: 17px;
+  font-weight: lighter;
+  color: #2d2d2d;
+}
+
+.container-text {
+  font-size: 19px;
+}
+
+
+/*main*/
+
+.main__caption {
+  text-align: center;
+  font-size: 25px;
+  font-weight: normal;
+  color: #082824;
+  text-transform: uppercase;
+}
+
+.result__caption {
+  text-align: center;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.main-btn {
+  font-size: 25px;
+}
+
+.question__item {
+  font-size: 19px;
+}
+
+.main-quest-text {
+  font-size: 30px;
+}
+
+.result-light-text {
+  font-size: 19px;
+}
+
+.result-full-text {
+  font-size: 20px;
+}

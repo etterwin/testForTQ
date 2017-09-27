@@ -1,0 +1,90 @@
+/*main*/
+
+.main-quest-img {
+  width: 90%;
+  opacity: 0.8;
+  float: left;
+  padding: 10px;
+}
+
+.button-img {
+  margin-right: 2%;
+  float: right;
+}
+
+.button-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.button-img:not(:hover) {
+  transition: 1s;
+}
+
+.subscribe-img {
+  margin-bottom: 30px;
+}
+
+.subscribe-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.subscribe-img:not(:hover) {
+  transition: 1s;
+}
+
+.start-img {
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 30px;
+}
+
+.start-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.start-img:not(:hover) {
+  transition: 1s;
+}
+
+.next-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.next-img:not(:hover) {
+  transition: 1s;
+}
+
+.result-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.result-img:not(:hover) {
+  transition: 1s;
+}
+
+.home-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.home-img:not(:hover) {
+  transition: 1s;
+}
+
+.submit-img {
+  float: right;
+}
+
+.submit-img:hover {
+  filter:hue-rotate(130deg);
+  transition: 1s;
+}
+
+.submit-img:not(:hover) {
+  transition: 1s;
+}
